@@ -12,5 +12,4 @@ public class BooksApiApplication {
 		SpringApplication.run(BooksApiApplication.class, args);
 		System.out.println("books api with webflux");
 	}
-
 }
