@@ -1,7 +1,7 @@
 <h2>Books API</h2>
 
 <h2>Desenvolvimento de uma api reativa com spring boot</h2>
-Para executar o projeto no terminal, digite o seguinte comando:
+
 
 Pré-requisitos:
 * Java 8 ou versões superiores.
